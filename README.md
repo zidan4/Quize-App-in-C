@@ -1,1 +1,1 @@
-# Quize-App-in-C 
+# Quize-App-in-C
